@@ -9,5 +9,5 @@
 [![Website](https://img.shields.io/badge/Website-%23e62e56.svg?style=for-the-badge&logo=website&logoColor=white)](https://jgstudio-dev.netlify.app/)
 
 
-#Original Repository
+# Original Repository
 https://github.com/overextended/ox_inventory
